@@ -1,0 +1,7 @@
+.file_input {
+    cursor: pointer;
+}
+
+.file_input input {
+    display: none;
+}
